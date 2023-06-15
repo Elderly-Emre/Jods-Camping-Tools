@@ -52,3 +52,9 @@
 
 For any doubt, question or technical support you might need, contact me throught the [TLD Modding](https://discord.com/invite/nb2jQez) Discord server and place a message at #jods.
 
+## Videos 
+
+[![CampingTools1](https://img.youtube.com/vi/n-Wni4ksB3Q/0.jpg)](https://www.youtube.com/watch?v=n-Wni4ksB3Q)
+
+[![ICampingTools2](https://img.youtube.com/vi/5DkWDh0Cf_U/0.jpg)](https://www.youtube.com/watch?v=5DkWDh0Cf_U)
+
